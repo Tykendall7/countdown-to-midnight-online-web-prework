@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown
+def countdown(number)
     number = 10
     loop do
       while number > 0
