@@ -3,7 +3,7 @@
 def countdown
     number = 10
     loop do
-      while number >= 0
+      while number > 0
         puts "#{number} SECONDS!"
         number -= 1
     END
