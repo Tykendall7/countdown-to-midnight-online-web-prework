@@ -10,4 +10,7 @@ def countdown(seconds)
   puts "HAPPY NEW YEAR!"
 end
 
+def countdown_to_sleep 
+
+
 countdown
